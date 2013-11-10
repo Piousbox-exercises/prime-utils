@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "prime-utils"
   gem.homepage = "http://github.com/piousbox/prime-utils"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ re-writing actions around prime numbers for interviews }
+  gem.description = %Q{ re-writing actions around prime numbers for interviews }
   gem.email = "piousbox@gmail.com"
   gem.authors = ["Victor Piousbox"]
   # dependencies defined in Gemfile
