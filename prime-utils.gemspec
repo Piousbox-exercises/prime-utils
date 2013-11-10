@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Victor Piousbox"]
   s.date = "2013-11-10"
-  s.description = "TODO: longer description of your gem"
+  s.description = " re-writing actions around prime numbers for interviews "
   s.email = "piousbox@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/prime_utils.rb",
+    "prime-utils.gemspec",
     "spec/helper.rb",
     "spec/prime_utils_spec.rb",
     "spec/spec_helper.rb",
@@ -34,7 +35,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.23"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "re-writing actions around prime numbers for interviews"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
